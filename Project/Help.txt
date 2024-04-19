@@ -1,0 +1,48 @@
+Database Server	: Mysql
+Password	: root
+
+20eg105624@anurag.edu.in
+
+Project Url: http://localhost:2525/VerifiableSemanticSearchingSchemeOverEncryptedData
+
+cloud
+----------------------
+url: www.cloudme.com
+username:20eg105624
+password:voidmain
+
+cloud drive  -> semantic search
+
+Data Owner
+----------------------
+1)Registration
+2)Login 5) 12)
+
+6)upload file
+	generate sec key
+	encrypt uploaded file with sec key
+	connect to cloud server
+	upload encrypted file to cloud server
+	display page to save index of file
+	submit file index
+
+7)view file details
+
+13) view key request
+14) send keys or delete key request
+
+8) Logout 15) 
+
+
+Data User
+--------------
+3)Registration
+4)Login 9)
+
+10)search file 16)
+	view files
+	send key request
+
+17) submit sec key to decrypt and download file from cloud
+
+11) Logout 18)
